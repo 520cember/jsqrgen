@@ -5,7 +5,7 @@
   "authors": [
     "Gerald <gera2ld@163.com>"
   ],
-  "main": "dist/qrgen.min.js",
+  "main": "dist/qrgen.js",
   "keywords": [
     "qrcode",
     "qrgen",
